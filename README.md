@@ -4,21 +4,22 @@ A basic static website designed to showcase a list of games and their prices. Bu
 A basic game store website built using HTML and CSS as part of the Web Design coursework.
 
 📌 Features
-Static layout (non-responsive)
-
-Game list with titles and prices
-
-Simple UI styling without JavaScript
+- Static layout (non-responsive)
+- Game list with titles and prices
+- Simple UI styling without JavaScript
 
 🛠️ Technologies
-HTML
+- HTML
+- CSS
 
-CSS
 📚 Coursework
 Web Design – D3 Manajemen Informatika, Politeknik Negeri Bali
 
 📸 Preview
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/152f608d-89f8-4f05-a6d0-860c42eb3248" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/669f3fe0-c297-4e35-9f36-9464db9713dc" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/27e23d55-c2e7-4fd5-a90a-9b4495f99377" />
+
 
 
 🚀 How to Run
